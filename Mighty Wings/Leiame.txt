@@ -1,0 +1,3 @@
+Para jogar clique em iniciar.exe, não excluir nenhuma pasta se não o jogo não vai funcionar, os comandos são bem
+simples, as setas movimentam a nave, barra de espaço atira.
+Divirtam-se...

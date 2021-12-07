@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1275856833 source:c:\documents and settings\amorim imper\meus documentos\mighty wings\main.cpp
+	<allegro.h>
+
+1275880089 source:c:\documents and settings\amorim imper\meus documentos\eduardo\jogo digitais\algoritimo e programação\mighty wings\main.cpp
+	<allegro.h>
+
+1275925033 source:c:\documents and settings\amorim imper\meus documentos\eduardo\jogo digitais\algoritimo e programação\atividade allegro m2\mighty wings\main.cpp
+	<allegro.h>
+
+1278275422 source:f:\mighty wings\main.cpp
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<iostream.h>
+
+1276968274 source:g:\mighty wings\main.cpp
+	<allegro.h>
+	<time.h>
+
+1277773802 source:e:\mighty wings\main.cpp
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<iostream.h>
+
+1278381023 source:c:\documents and settings\amorim imper\meus documentos\eduardo\jogo digitais\algoritimo e programação\jogo m3\mighty wings\main.cpp
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<iostream.h>
+
+1278381024 source:c:\documents and settings\administrador\meus documentos\eduardo\jogos digitais\algoritimo e programação\jogo m3\mighty wings\main.cpp
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<iostream.h>
+
+1283041152 source:c:\documents and settings\administrador\meus documentos\eduardo\jogos digitais\1° fase\algoritimo e programação\jogo m3\mighty wings\main.cpp
+	<allegro.h>
+	<time.h>
+	<math.h>
+	<iostream.h>
+
